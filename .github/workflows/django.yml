@@ -5,7 +5,7 @@ on:
     branches:
       - develop
       - master
-      -codespaces-practica3
+      - codespaces-practica3
 
 jobs:
   build:
